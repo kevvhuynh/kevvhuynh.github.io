@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Kevin Huynh
+tagline:             Mechanical Engineer
+url:                 http://engineer.gg
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,13 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Kevin Huynh
+  url:               http://engineer.gg
+  email:             kevin@engineer.gg
 
 # Custom vars
 version:             2.0.1
-github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+linkedin:            kevhuynh
 
 # Gems
 gems:
